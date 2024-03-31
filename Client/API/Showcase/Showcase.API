@@ -1,8 +1,9 @@
 {
+  "logo": "https://github.com/sunwurp/Luncerwin/blob/main/Client/Image/Logo/luncerwin_dragon.png?raw=true",
   "main_banner": "",
-  "main_link": "",
-  "ads1_banner": "",
-  "ads1_link": "",
-  "ads2_banner": "",
-  "ads2_link": ""
+  "main_link": "https://luncerwin.dev",
+  "ads1_banner": "https://github.com/sunwurp/Luncerwin/blob/main/Client/Image/partnership/lwads0234ngth3.gif?raw=true",
+  "ads1_link": "https://luncerwin.dev",
+  "ads2_banner": "https://github.com/sunwurp/Luncerwin/blob/main/Client/Image/partnership/lwads0234ngth3.gif?raw=true",
+  "ads2_link": "https://luncerwin.dev"
 }
