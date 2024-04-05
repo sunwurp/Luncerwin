@@ -1,0 +1,7 @@
+{
+  "VERSION": "https://github.com/sunwurp/Luncerwin/raw/main/Client/API/Version.API",
+  "DEVELOPER": "https://github.com/sunwurp/Luncerwin/raw/main/Client/API/Verify/Developer.API",
+  "ADMIN": "https://github.com/sunwurp/Luncerwin/raw/main/Client/API/Verify/Admin.API",
+  "PARTNER": "https://github.com/sunwurp/Luncerwin/raw/main/Client/API/Verify/Partner.API",
+  "BAN": "https://github.com/sunwurp/Luncerwin/raw/main/Client/API/Verify/Blacklist.API"
+}
